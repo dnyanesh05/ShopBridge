@@ -1,0 +1,10 @@
+C:\Test_applications\ShopBridge\ShopBridge.Database\bin\Debug\ShopBridge.Database.dacpac
+C:\Test_applications\ShopBridge\ShopBridge.Database\obj\Debug\Model.xml
+C:\Test_applications\ShopBridge\ShopBridge.Database\obj\Debug\refactor.xml
+C:\Test_applications\ShopBridge\ShopBridge.Database\obj\Debug\postdeploy.sql
+C:\Test_applications\ShopBridge\ShopBridge.Database\obj\Debug\predeploy.sql
+C:\Test_applications\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.dll
+C:\Test_applications\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.pdb
+C:\Test_applications\ShopBridge\ShopBridge.Database\bin\Debug\ShopBridge.Database.dll
+C:\Test_applications\ShopBridge\ShopBridge.Database\bin\Debug\ShopBridge.Database.pdb
+C:\Test_applications\ShopBridge\ShopBridge.Database\obj\Debug\ShopBridge.Database.sqlprojAssemblyReference.cache
